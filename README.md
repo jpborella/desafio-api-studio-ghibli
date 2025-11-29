@@ -9,7 +9,7 @@ Uma aplicação web responsiva que consome a API pública do Studio Ghibli para 
 
 ## 🚀 Demonstração
 
-(quando fizer o deploy)
+https://desafio-api-studio-ghibli.vercel.app/
 
 ## 📋 Funcionalidades
 
